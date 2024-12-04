@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.food1{
+    width: 50%;
+    height: 70vh;
+    margin-top: -16vh;
+    /* background-color: red; */
+}
+#star1{
+    width: 142px;
+    height: 24px;
+    margin-left: 20vw;
+    margin-top: 16vh;
+}
+.noon1{
+    margin-top: -3vh;
+}
+.momos1{
+    margin-left:12vw;
+    
+}
+#sun1{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: "Poppins";
+    line-height: 20px; 
+    color: #0C1421;
+}
+#moon1{
+    width: 16px;
+    height: 14px;
+    padding-left: 1vw;
+}
+#mercury1{
+    font-size:14px;
+    font-weight: 400;
+    font-family: "Poppins";
+    line-height: 18px;
+    color: #313957;
+    margin-top: -2vh;
+}
+#pluto1{
+    width: 320px;
+    height: 22px;
+    border-radius: 50px;
+    
+}
+label{
+    font-family: "Poppins";
+    font-size: 14px;
+    
+}
+#ceres1{
+    width: 320px;
+    height: 22px;
+    border-radius: 50px;
+    
+}
+button{
+    width: 326px;
+    height: 28px;
+    border-radius: 50px;
+    border: none;
+    background-color: orange;
+    font-family: "Poppins";
+    color: white;
+    cursor: pointer;
+}
+#solar1{
+    font-family: "Poppins";
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: -2vh;
+}
+#pole1{
+     font-family: "Poppins";
+     font-size: 12px;
+     color: orange;
+}
+.koyto1{
+    width: 320px;
+    height: 420px;
+    margin-left:58vw;
+    margin-top: -88vh;
+}
+#makemake1{
+    width: 31vw;
+    height: 68vh;
+    margin-left:6vw;
+    margin-top: 18vh
+}
+.earth1{
+    margin-top: 14vh;
+    height: 150px;
+    background-color:#eeeeee;
+}
+#golf1{
+    width: 82px;
+    margin-top: 3vh;
+    margin-left: 4vw;
+}
+.raju1{
+    height: 60px;
+    background-color: black;
+    margin-top: 14vh;
+}
+#tam1{
+    width: 120px;
+    margin-top: 23vh;
+    margin-left: 4vw;
+
+}
+.yut1{
+    margin-top: -14vh;
+    margin-left: 4vw;
+   
+}
+#hat1{
+    font-size: 8px;
+    display: inline;
+    font-family: "Poppins";
+    color:black;
+    
+}
+#jic1{
+    margin-top:-15vh;
+    margin-left: 28vw;
+    font-size: 14px;
+    font-family: "Poppins";
+    font-weight: 600;
+}
+#goa1{
+    width: 260px;
+    height: 30px;
+    border-radius: 60px;
+    margin-left: 27.5vw;
+}
+#bomby1{
+    width: 120px;
+    height: 36px;
+    margin-left: -12vh;
+}
+#deli1{
+    margin-left: 28vw;
+    font-size: 10px;
+    font-family: "Poppins";
+    margin-top: 0.1vh;
+}
+.salt2{
+    display: flex;
+    list-style: none;
+    gap: 16px; 
+    margin-left: 25vw;
+    margin-top: -2vh;
+}
+#rekh1{
+    width: 20px;
+    height: 20px;
+}
+#cirt2{
+    margin-left: 69vw;
+    margin-top: -22vh;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+.sirt2{
+    margin-left: 66vw;
+    list-style: none;
+    font-size: 12px;
+    line-height: 3vh;
+}
+#cirt3{
+    margin-left: 84vw;
+    margin-top: -20.5vh;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Poppins";
+}
+.sirt3{
+    margin-left: 81vw;
+    list-style: none;
+    font-size: 12px;
+    line-height: 3.1vh;
+}
+#camt1{
+    padding-top: 3.2vh;
+    font-size: 12px;
+    margin-left: 6vw;
+    color: white;
+    font-family: "Poppins";
+}
+.mamt1{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-top: -5.5vh;
+    margin-left:48vw;
+    font-size: 12px;
+    font-family: "Poppins";
+    color: white;
+}
+
+
+
+
+
+
